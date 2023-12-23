@@ -3,7 +3,7 @@ title: "Maximin-Aware Allocations of Indivisible Chores with Symmetric and Asymm
 collection: publications
 permalink: /publication/2023-04-20-paper-title-number-1
 date: 2023-04-20
-venue: 'In Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)'
+venue: 'Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)'
 
 ---
 
