@@ -1,5 +1,5 @@
 ---
-title: "Fair Allocations in Multiple Regions"
+title: "Fair Allocations of Items in Multiple Regions"
 collection: publications
 permalink: /publication/2023-12-09-paper-title-number-3
 date: 2023-12-09
