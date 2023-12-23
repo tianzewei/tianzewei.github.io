@@ -18,6 +18,5 @@ I am a third-year Ph.D. student in Computer Science at City University of Hong K
 * Online Algorithm
 
 
-**Address**
-
-MMW2481<br>Department of Computer Science<br>City University of Hong Kong<br>Email: t.z.wei-8@my.cityu.edu.hk
+**Address**:
+<br>MMW2481<br>Department of Computer Science<br>City University of Hong Kong<br>Email: t.z.wei-8@my.cityu.edu.hk
