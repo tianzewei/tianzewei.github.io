@@ -9,5 +9,5 @@ venue: 'Proceedings of the 32nd International Joint Conference on Artificial Int
 
 Tianze Wei, [Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/), [Minming Li](https://www.cs.cityu.edu.hk/~minmli/)
 
-[Arxiv](https://arxiv.org/abs/2308.15809')<br>[Download paper here](https://www.ijcai.org/proceedings/2023/0323.pdf)
+[Arxiv](https://arxiv.org/abs/2308.15809)<br>[Download IJCAI paper here](https://www.ijcai.org/proceedings/2023/0323.pdf)
 
