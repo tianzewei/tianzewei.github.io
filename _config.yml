@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tianze WEI/ Personal Homepage"
+title                    : "Tianze Wei‘s Personal Homepage"
 title_separator          : "-"
-name                     : &name "Tianze WEI"
+name                     : &name "Tianze Wei"
 description              : &description "A third-year PhD student at City University of Hong Kong"
 url                      : https://tianzewei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -87,7 +87,7 @@ author:
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=NXbBquwAAAAJ&hl=zh-TW"
-  email            :
+  email            : "t.z.wei-8@my.cityu.edu.hk"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
