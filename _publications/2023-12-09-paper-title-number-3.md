@@ -3,7 +3,7 @@ title: "Fair Allocations in Multiple Regions"
 collection: publications
 permalink: /publication/2023-12-09-paper-title-number-3
 date: 2023-12-09
-venue: 'The 38th AAAI Conference on Artificial Intelligence (AAAI 2024)'
+venue: 'Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI 2024)'
 
 ---
 
