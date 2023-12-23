@@ -7,5 +7,4 @@ venue: "Department of Computer Science, City University of Hong Kong"
 location: "Hong Kong"
 ---
 
-Teaching Asssitant
-2022 Spring
+Teaching Asssitant<br>2022 Spring
