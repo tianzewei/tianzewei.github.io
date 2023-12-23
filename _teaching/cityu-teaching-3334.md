@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/cityu-teaching
 venue: "Department of Computer Science, City University of Hong Kong"
-date: 2021,2022,2023
 location: "Hong Kong"
 ---
-Teaching Assitant
+Teaching Assitant<br>
+2021 Fall, 2022 Fall, 2023 Fall
