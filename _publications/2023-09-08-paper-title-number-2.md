@@ -8,7 +8,7 @@ venue: 'Proceedings of the 19th Conference on Web and Internet Economics (WINE 2
 
 ---
 
-[Zhiyi Huang](https://i.cs.hku.hk/~zhiyi/), [Minming Li](https://www.cs.cityu.edu.hk/~minmli/), [Xinkai Shu](https://shuxk.github.io), Tianze Wei
+(alphabetical order) [Zhiyi Huang](https://i.cs.hku.hk/~zhiyi/), [Minming Li](https://www.cs.cityu.edu.hk/~minmli/), [Xinkai Shu](https://shuxk.github.io), Tianze Wei
 
 [Arxiv](https://arxiv.org/abs/2211.03077)
 
