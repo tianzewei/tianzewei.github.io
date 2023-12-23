@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tianze Wei‘s Personal Homepage"
+title                    : "Tianze Wei‘s personal homepage"
 title_separator          : "-"
 name                     : &name "Tianze Wei"
 description              : &description "A third-year PhD student at City University of Hong Kong"
