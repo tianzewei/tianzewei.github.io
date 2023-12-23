@@ -1,7 +1,7 @@
 ---
 title: "CS2468 Data Structures & Data Management"
 collection: teaching
-type: "Course"
+type: "Undergraduate course"
 permalink: /teaching/cityu-teaching-2468
 venue: "Department of Computer Science, City University of Hong Kong"
 location: "Hong Kong"
