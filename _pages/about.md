@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in Computer Science at City University of Hong Kong, where I am very fortunate to be advised by [Minming Li](https://www.cs.cityu.edu.hk/~minmli/). Before joining CityU, I obtained my master's degree in Data Science from The University of Edinburgh and my bachelor's degree in Management Information Systems from Beijing University of Posts and Telecommunications. 
+I am a third-year Ph.D. student in the [Department of Computer Science](https://www.cs.cityu.edu.hk) at City University of Hong Kong, where I am very fortunate to be advised by [Minming Li](https://www.cs.cityu.edu.hk/~minmli/). Before joining CityU, I obtained my master's degree in Data Science from The University of Edinburgh and my bachelor's degree in Management Information Systems from Beijing University of Posts and Telecommunications. 
 
 
 **Research Interests**
