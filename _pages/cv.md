@@ -19,7 +19,7 @@ Teaching
 =====
 * CS3334 Data Structures (Teaching Assistant)    2021 Fall, 2022 Fall, 2023 Fall
 * CS2468 Data Structures & Data Management (Teaching Assistant)    2022 Spring
-* CS9382 Algorithm Analysis and Game Theory (Teaching Assistant) 2023 Spring
+* CS6382 Algorithm Analysis and Game Theory (Teaching Assistant) 2023 Spring
 
 Publications
 =====
