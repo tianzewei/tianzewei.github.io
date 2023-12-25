@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-09-08-paper-title-number-2
 date: 2023-09-08
 
-venue: 'Proceedings of the 19th Conference on Web and Internet Economics (WINE 2023)'
+venue: 'Proceedings of the 19th Conference on Web and Internet Economics (WINE-23)'
 
 ---
 
