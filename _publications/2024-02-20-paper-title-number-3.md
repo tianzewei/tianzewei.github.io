@@ -9,3 +9,6 @@ venue: 'Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI
 
 [Houyu Zhou](https://houyuzhou.github.io), Tianze Wei, [Biaoshuai Tao](https://jhc.sjtu.edu.cn/~bstao/), [Minming Li](https://www.cs.cityu.edu.hk/~minmli/)
 
+
+[Download AAAI paper here](https://ojs.aaai.org/index.php/AAAI/article/view/28861)
+
