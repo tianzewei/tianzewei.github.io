@@ -22,4 +22,4 @@ I am a third-year Ph.D. student in the [Department of Computer Science](https://
 
 
 **Address**:
-<br>MMW2481<br>Department of Computer Science<br>City University of Hong Kong<br>Email: t.z.wei-8@my.cityu.edu.hk
+<br>Department of Computer Science<br>City University of Hong Kong<br>Email: t.z.wei-8@my.cityu.edu.hk
