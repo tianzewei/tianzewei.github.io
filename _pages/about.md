@@ -18,8 +18,8 @@ I am a third-year Ph.D. student in the [Department of Computer Science](https://
 **Research Interests**
 * Fair Division
 * Computational Social Choice
-* Machine Learning
 * Online Algorithm
+* Machine Learning
 
 
 **Address**:
