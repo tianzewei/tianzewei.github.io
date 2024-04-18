@@ -12,7 +12,7 @@ I am a third-year Ph.D. student in the [Department of Computer Science](https://
 
 **News**
 * One paper about EFX on graphs was accepted by IJCAI-24.
-* I‘m visiting [Ioannis Caragiannis](https://cs.au.dk/~iannis/) at Aarhus University for the spring of 2024.
+* Currently, I‘m visiting [Ioannis Caragiannis](https://cs.au.dk/~iannis/) at Aarhus University as a guest PhD student.
 
 
 **Research Interests**
