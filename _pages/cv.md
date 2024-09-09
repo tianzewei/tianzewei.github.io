@@ -27,6 +27,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Awards
+=====
+* Outstanding Academic Performance Award, 2024, CityUHK
+
 <!-- 
 Work experience
 ======
