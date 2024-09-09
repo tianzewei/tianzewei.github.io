@@ -9,25 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+### Education
 
 * B.S. in Management Information Systems, Beijing University of Posts and Communications, 2015-2019
 * M.S. in Data Science, The University of Edinburgh, 2019-2020
 * Ph.D. in Computer Science, City University of Hong Kong, 2021-2025 (expected)
 
-##  Teaching
+### Teaching
 
 * CS3334 Data Structures (Teaching Assistant)    2021 Fall, 2022 Fall, 2023 Fall
 * CS2468 Data Structures & Data Management (Teaching Assistant)    2022 Spring
 * CS6382 Algorithm Analysis and Game Theory (Teaching Assistant) 2023 Spring, 2024 Spring
 
-##  Publications
+###  Publications
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-##  Awards
+###  Awards
 
 * Outstanding Academic Performance Award, 2024, CityUHK
 
