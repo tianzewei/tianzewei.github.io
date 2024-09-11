@@ -30,6 +30,7 @@ redirect_from:
 ### Working Papers
 
 * Equitable Allocations with Subsidy
+  
 * Doubly Fairness Allocation with Group
 
 ###  Awards
