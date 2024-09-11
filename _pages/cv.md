@@ -31,7 +31,7 @@ redirect_from:
 
 * Equitable Allocations with Subsidy
   
-* Doubly Fairness Allocation with Group
+* Doubly Group Fairness Allocations 
 
 ###  Awards
 
