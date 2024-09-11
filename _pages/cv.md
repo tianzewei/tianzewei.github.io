@@ -27,6 +27,11 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+### Working Papers
+
+* Equitable Allocations with Subsidy
+* Doubly Fairness Allocation with Group
+
 ###  Awards
 
 * Outstanding Academic Performance Award, 2024, CityUHK
