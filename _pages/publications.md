@@ -8,7 +8,6 @@ author_profile: true
 "$\alpha$-$\beta$" indicates alphabetical author order. Below is an updated list of my publications (See also [DBLP](https://dblp.org/pid/332/4208.html))
 
 
-
 <style>
     ul.publications {
         list-style-type: none ;
