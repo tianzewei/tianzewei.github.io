@@ -1,7 +1,6 @@
 ---
 title: "Online Nash Welfare Maximization Without Predictions"
 collection: publications
-category: conferences
 permalink: /publication/2023-09-08-paper-title-number-2
 date: 2023-09-08
 
