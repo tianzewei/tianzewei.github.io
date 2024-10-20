@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-$\alpha$-$\beta$ :authors are listed in alphabetical order.
+$\alpha$-$\beta$ : authors are listed in alphabetical order.
 
 {% include base_path %}
 
