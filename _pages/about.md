@@ -17,8 +17,8 @@ I am a fourth-year Ph.D. student in the [Department of Computer Science](https:/
 
 **Research Interests**
 * Fair Division
-* Computational Social Choice
 * Online Algorithm
+* Computational Social Choice
 * Machine Learning
 
 
