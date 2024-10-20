@@ -31,7 +31,9 @@ redirect_from:
 
 * Equitable Allocations with Subsidy
   
-* Doubly Group Fair Allocations 
+* Centralized Group and Individual Envy-Freeness in the Allocation of Indivisible Items
+
+* Weighted Envy-Free Matchings with Subsidy 
 
 ###  Awards
 
