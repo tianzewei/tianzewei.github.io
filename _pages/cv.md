@@ -33,7 +33,9 @@ redirect_from:
   
 * Centralized Group and Individual Envy-Freeness in the Allocation of Indivisible Items
 
-* Weighted Envy-Free Matchings with Subsidy 
+* Weighted Envy-Free Matchings with Subsidy
+
+* Online Fair Division with Indivisible Items
 
 ###  Awards
 
