@@ -35,7 +35,6 @@ redirect_from:
 
 * Weighted Envy-Free Matchings with Subsidy
 
-* Online Fair Division with Indivisible Items
 
 ###  Awards
 
