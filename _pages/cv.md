@@ -29,13 +29,13 @@ redirect_from:
 
 ### Working Papers
 
-* Equitable Allocations with Subsidy
+* Achieving Equitability with Subsidy
   
 * Centralized Group and Individual Envy-Freeness in the Allocation of Indivisible Items
 
 * Weighted Envy-Free Fractional Matchings with Subsidies
 
-* Fair Online Non-Wasteful Allocations
+* Fair Online Allocations with Binary Valuations and Beyond
 
 
 ###  Awards
