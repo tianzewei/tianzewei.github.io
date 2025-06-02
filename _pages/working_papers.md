@@ -16,7 +16,7 @@ author_profile: true
 *  ### Centralized Group and Individual Envy-Freeness in the Allocation of Indivisible Items
 
 
-* ### Fair Online Allocations with Binary Valuations and Beyond
+* ### Online Fair Allocations with Binary Valuations and Beyond
   [Arxiv](https://arxiv.org/pdf/2505.24321)
 
 * ### Fair and Efficient Split Federated Learning
