@@ -13,7 +13,7 @@ author_profile: true
 * ### Achieving Equitability with Subsidy
   [Arxiv](https://arxiv.org/pdf/2505.23251)
   
-*  ### Centralized Group and Individual Envy-Freeness in the Allocation of Indivisible Items
+*  ### Centralized Group Equitability and Individual Envy-Freeness in the Allocation of Indivisible Items
 
 
 * ### Online Fair Allocations with Binary Valuations and Beyond
