@@ -1,1 +1,26 @@
+---
+layout: archive
+title: "Working Papers"
+permalink: /working_papers/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+
+
+# Working Papers
+
+* Achieving Equitability with Subsidy
+  
+* Centralized Group and Individual Envy-Freeness in the Allocation of Indivisible Items
+
+* Weighted Envy-Free Fractional Matchings with Subsidies
+
+* Fair Online Allocations with Binary Valuations and Beyond
+
+
+
+
 
