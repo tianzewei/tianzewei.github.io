@@ -27,20 +27,13 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-### Working Papers
-
-* Achieving Equitability with Subsidy
-  
-* Centralized Group and Individual Envy-Freeness in the Allocation of Indivisible Items
-
-* Weighted Envy-Free Fractional Matchings with Subsidies
-
-* Fair Online Allocations with Binary Valuations and Beyond
-
-
 ###  Awards
 
 * Outstanding Academic Performance Award, 2024, CityUHK
+
+### Professional Services
+
+* Conference Reviewing: NeurIPS 2025
 
 <!-- 
 Work experience
