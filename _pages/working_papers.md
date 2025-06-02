@@ -8,15 +8,18 @@ author_profile: true
 {% include base_path %}
 
 
-# Working Papers
 
-* Achieving Equitability with Subsidy
+
+* ### Achieving Equitability with Subsidy
+  [Arxiv](https://arxiv.org/pdf/2505.23251)
   
-* Centralized Group and Individual Envy-Freeness in the Allocation of Indivisible Items
+*  ### Centralized Group and Individual Envy-Freeness in the Allocation of Indivisible Items
 
-* Weighted Envy-Free Fractional Matchings with Subsidies
 
-* Fair Online Allocations with Binary Valuations and Beyond
+* ### Fair Online Allocations with Binary Valuations and Beyond
+  [Arxiv](https://arxiv.org/pdf/2505.24321)
+
+* ### Fair and Efficient Split Federated Learning
 
 
 
