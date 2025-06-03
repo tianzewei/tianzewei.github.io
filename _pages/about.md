@@ -13,14 +13,14 @@ I am a fourth-year Ph.D. student in the [Department of Computer Science](https:/
 *If you have any questions or are interested in collaborating with me, please feel free to drop me an email.
 
 **News**
+* **June, 2025.**  Two new fair division papers related to subsidy and the online setting are on Arxiv now.
 * **April, 2024.** One paper about EFX on graphs was accepted by IJCAI-24.
 * **March, 2024.** I‘m going to visit [Ioannis Caragiannis](https://cs.au.dk/~iannis/) at Aarhus University as a guest PhD student.
 
 
 **Research Interests**
-* Fair Division
-* Online Algorithm
 * Computational Social Choice
+* Online Algorithm
 * Machine Learning
 
 
