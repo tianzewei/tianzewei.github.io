@@ -10,16 +10,18 @@ author_profile: true
 
 
 
-* ### Achieving Equitability with Subsidy
+* ## Achieving Equitability with Subsidy
   [Arxiv](https://arxiv.org/pdf/2505.23251)
   
-*  ### Centralized Group Equitability and Individual Envy-Freeness in the Allocation of Indivisible Items
+*  ## Centralized Group Equitability and Individual Envy-Freeness in the Allocation of Indivisible Items
 
 
-* ### Online Fair Allocations with Binary Valuations and Beyond
+* ## Online Fair Allocations with Binary Valuations and Beyond
   [Arxiv](https://arxiv.org/pdf/2505.24321)
 
-* ### Fair and Efficient Split Federated Learning
+* ## Adapted Split Federated Learning
+
+* ## Automated Mechanism Design without Prior Information
 
 
 
