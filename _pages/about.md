@@ -21,6 +21,7 @@ I am a fourth-year Ph.D. student in the [Department of Computer Science](https:/
 **Research Interests**
 * Computational Social Choice
 * Online Algorithm
+* Mechanism Design
 * Machine Learning
 
 
