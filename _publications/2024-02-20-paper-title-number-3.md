@@ -6,8 +6,8 @@ date: 2024-02-20
 venue: 'Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)'
 
 ---
-($\beta$-$\alpha$)
-[Houyu Zhou](https://houyuzhou.github.io), Tianze Wei, [Biaoshuai Tao](https://jhc.sjtu.edu.cn/~bstao/), [Minming Li](https://www.cs.cityu.edu.hk/~minmli/)
+($\alpha$-$\beta$)
+[Minming Li](https://www.cs.cityu.edu.hk/~minmli/), [Biaoshuai Tao](https://jhc.sjtu.edu.cn/~bstao/), Tianze Wei, [Houyu Zhou](https://houyuzhou.github.io),
 
 
 [AAAI Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28861)
