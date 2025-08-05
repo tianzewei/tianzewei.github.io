@@ -28,7 +28,7 @@ author_profile: true
 
   [Arxiv](https://arxiv.org/pdf/2505.24321)
 
-* ## Adapted Split Federated Learning
+* ## Provably Efficient Scheduling for Scalable Multi-Server Assisted Split Federated Learning
   Joint work with Xiang Liu
 
 * ## Worst-case Automated Mechanism Design
