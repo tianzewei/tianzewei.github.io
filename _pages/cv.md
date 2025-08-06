@@ -33,7 +33,7 @@ redirect_from:
 
 ### Professional Services
 
-* Conference Reviewing: NeurIPS 2025
+* Conference Reviewing: AAAI 2026, NeurIPS 2025
 
 <!-- 
 Work experience
