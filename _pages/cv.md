@@ -13,7 +13,7 @@ redirect_from:
 
 * B.S. in Management Information Systems, Beijing University of Posts and Communications, 2015-2019
 * M.S. in Data Science, The University of Edinburgh, 2019-2020
-* Ph.D. in Computer Science, City University of Hong Kong, 2021-2025 (expected)
+* Ph.D. in Computer Science, City University of Hong Kong, 2021-2025
 
 ### Teaching
 
