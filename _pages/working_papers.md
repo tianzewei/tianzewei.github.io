@@ -17,10 +17,6 @@ author_profile: true
 
     [Arxiv](https://arxiv.org/pdf/2505.23251)
   
-*  ## Centralized Group Equitability and Individual Envy-Freeness in the Allocation of Indivisible Items
-   Joint work with Hau Chan, Jiaqian Li, Minming Li, Ying Wang 
-
-
 
 * ## Provably Efficient Scheduling for Scalable Multi-Server Assisted Split Federated Learning
   Joint work with Xiang Liu
