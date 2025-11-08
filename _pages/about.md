@@ -14,9 +14,9 @@ Before this, I obtained my PhD degree in Computer Science in the [Department of 
 *If you have any questions or are interested in collaborating with me, please feel free to drop me an email.
 
 **News**
-* **November, 2025.** Two papers about the online fair division and centralized group fairness were accepted by AAAI-26.
+* **November, 2025.** Two papers about online fairness and centralized group fairness were accepted by AAAI-26.
 * **October, 2025.** I successfully passed my PhD oral defence and will join CUHK as a postdoc.
-* **June, 2025.**  Two new fair division papers related to subsidy and the online setting are on Arxiv now.
+* **June, 2025.**  Two new fair division papers related to subsidy and the online setting are on ArXiv now.
 * **April, 2024.** One paper about EFX on graphs was accepted by IJCAI-24.
 * **March, 2024.** I‘m going to visit [Ioannis Caragiannis](https://cs.au.dk/~iannis/) at Aarhus University as a guest PhD student.
 
