@@ -29,5 +29,6 @@ Before this, I obtained my PhD degree in Computer Science in the [Department of 
 * Computational Social Choice
 
 
-**Address**:
+**Address**
+
 Email: t.z.wei-8@my.cityu.edu.hk
