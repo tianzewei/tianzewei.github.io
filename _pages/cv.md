@@ -34,6 +34,7 @@ redirect_from:
 ### Professional Services
 
 * Conference Reviewing: AAAI 2026, NeurIPS 2025
+* Journal Reviewing: Journal of Artificial Intelligence Research
 
 <!-- 
 Work experience
