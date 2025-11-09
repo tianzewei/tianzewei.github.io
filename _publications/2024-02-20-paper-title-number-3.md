@@ -7,7 +7,7 @@ venue: 'Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI
 
 ---
 ($\alpha$-$\beta$)
-[Minming Li](https://www.cs.cityu.edu.hk/~minmli/), [Biaoshuai Tao](https://jhc.sjtu.edu.cn/~bstao/), Tianze Wei, [Houyu Zhou](https://houyuzhou.github.io),
+[Minming Li](https://www.cs.cityu.edu.hk/~minmli/), [Biaoshuai Tao](https://jhc.sjtu.edu.cn/~bstao/), Tianze Wei, [Houyu Zhou](https://houyuzhou.github.io)
 
 
 [AAAI Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28861)
