@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming postdoctoral fellow in the [CUHK Business School](https://www.bschool.cuhk.edu.hk) at [Chinese University of Hong Kong](https://www.cuhk.edu.hk/) (CUHK), fortunately mentored by [Wei Tang](https://wtang.org). 
+I am a postdoctoral fellow in the [Department of Decisions, Operations and Technology](https://www.bschool.cuhk.edu.hk/departments/decisions-operations-and-technology/) at [Chinese University of Hong Kong](https://www.cuhk.edu.hk/) (CUHK), fortunately mentored by [Wei Tang](https://wtang.org). 
 Before this, I obtained my PhD degree in Computer Science in the [Department of Computer Science](https://www.cs.cityu.edu.hk) at [City University of Hong Kong](https://www.cityu.edu.hk) (CityUHK), where I was fortunate to be advised by [Minming Li](https://www.cs.cityu.edu.hk/~minmli/), my master's degree in Data Science from [The University of Edinburgh](https://www.ed.ac.uk) and my bachelor's degree in Management Information Systems from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn). During my PhD study, I spent one wonderful year at Aarhus University, where I visited [Ioannis Caragiannis](https://cs.au.dk/~iannis/). I love hiking and strength training in my spare time.
 
 *If you have any questions or are interested in collaborating with me, please feel free to drop me an email.
@@ -22,7 +22,7 @@ Before this, I obtained my PhD degree in Computer Science in the [Department of 
 
 
 **Research Interests**
-* Machine Learning
+* Decision Making
 * Information Design
 * Mechanism Design
 * Online Algorithm
@@ -31,4 +31,4 @@ Before this, I obtained my PhD degree in Computer Science in the [Department of 
 
 **Address**
 
-Email: t.z.wei-8@my.cityu.edu.hk
+Email: tianzewei@cuhk.edu.hk / t.z.wei-8@my.cityu.edu.hk / tianzewei25@gmail.com
