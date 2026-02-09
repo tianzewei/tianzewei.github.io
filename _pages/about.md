@@ -31,4 +31,6 @@ Before this, I obtained my PhD degree in Computer Science in the [Department of 
 
 **Address**
 
-Email: tianzewei@cuhk.edu.hk / t.z.wei-8@my.cityu.edu.hk / tianzewei25@gmail.com
+Room 739, Cheng Yu Tung Building, CUHK
+
+Email: tianzewei@cuhk.edu.hk / tianzewei25@gmail.com
