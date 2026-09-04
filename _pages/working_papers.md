@@ -16,13 +16,23 @@ author_profile: true
   Joint work with Yuanyuan Wang
 
     [Arxiv](https://arxiv.org/pdf/2505.23251)
-  
-
-* ## Provably Efficient Scheduling for Scalable Multi-Server Assisted Split Federated Learning
-  Joint work with Xiang Liu
 
 * ## Worst-case Automated Mechanism Design
   Joint work with Chenran Yang, Hanrui Zhang
+
+  
+* ## Optimal Rationality-Robust Design: Censorship Persuasion and Tight Guarantee
+
+  Joint work with Yiding Feng, Wei Tang
+
+* ## Online Fair Allocation with Personalized Bi-valued Valuation Functions: Tightness and Improvement
+
+  Joint work with Yuanyuan Wang
+
+* ## Fair Allocation using Comparison Oracle
+
+  Joint work with Yixiong Gao
+
 
 
 
