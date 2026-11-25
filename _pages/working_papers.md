@@ -7,11 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-* ## Less Rational, More Transparent: Censorship as (Robustly) Optimal Disclosure (Under Review of Management Science)
+* ## Less Rational, More Transparent: Censorship as (Robustly) Optimal Disclosure <br> (Under Review of Management Science)
 
   Joint work with Yiding Feng, Chien-Ju Ho, Wei Tang
+  
+  [Arxiv](https://arxiv.org/pdf/2611.29456)
 
-* ## A Complete Landscape of EFX Allocations on Graphs: Goods, Chores and Mixed Manna (Under Review of Theoretical Computer Science)
+* ## A Complete Landscape of EFX Allocations on Graphs: Goods, Chores and Mixed Manna <br> (Under Review of Theoretical Computer Science)
 
   Join work with Bo Li, Minming Li, Zekai Wu, Yu Zhou
 
