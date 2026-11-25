@@ -9,11 +9,12 @@ redirect_from:
 ---
 
 I am a postdoctoral fellow in the [Department of Decisions, Operations and Technology](https://www.bschool.cuhk.edu.hk/departments/decisions-operations-and-technology/) at [Chinese University of Hong Kong](https://www.cuhk.edu.hk/) (CUHK), fortunately mentored by [Wei Tang](https://wtang.org). 
-Before this, I obtained my PhD degree in Computer Science in the [Department of Computer Science](https://www.cs.cityu.edu.hk) at [City University of Hong Kong](https://www.cityu.edu.hk) (CityUHK), where I was fortunate to be advised by [Minming Li](https://www.cs.cityu.edu.hk/~minmli/), my master's degree in Data Science from [The University of Edinburgh](https://www.ed.ac.uk) and my bachelor's degree in Management Information Systems from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn). During my PhD study, I spent one wonderful year at Aarhus University, where I visited [Ioannis Caragiannis](https://cs.au.dk/~iannis/). I love hiking and strength training in my spare time.
+Before this, I obtained my PhD degree in Computer Science in the [Department of Computer Science](https://www.cs.cityu.edu.hk) at [City University of Hong Kong](https://www.cityu.edu.hk) (CityUHK), where I was fortunate to be advised by [Minming Li](https://www.cs.cityu.edu.hk/~minmli/), my master's degree in Data Science from [The University of Edinburgh](https://www.ed.ac.uk) and my bachelor's degree in Management Information Systems from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn). During my PhD study, I spent one wonderful year at Aarhus University, where I visited [Ioannis Caragiannis](https://cs.au.dk/~iannis/).
 
 *If you have any questions or are interested in collaborating with me, please feel free to drop me an email.
 
 **News**
+* **November, 2026.** New paper about rationality-robust information design is under revision of Management Science.
 * **November, 2025.** Two papers about online fairness and centralized group fairness were accepted by AAAI-26.
 * **October, 2025.** I successfully passed my PhD oral defence and will join CUHK as a postdoc.
 * **June, 2025.**  Two new fair division papers related to subsidy and the online setting are on ArXiv now.
@@ -31,6 +32,6 @@ Before this, I obtained my PhD degree in Computer Science in the [Department of 
 
 **Address**
 
-Room 739, Cheng Yu Tung Building, CUHK
+14/F, Cheng Yu Tung Building, CUHK
 
 Email: tianzewei@cuhk.edu.hk / tianzewei25@gmail.com
