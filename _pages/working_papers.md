@@ -7,23 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
+* ## Less Rational, More Transparent: Censorship as (Robustly) Optimal Disclosure (Under Review of Management Science)
 
+  Joint work with Yiding Feng, Chien-Ju Ho, Wei Tang
 
+* ## A Complete Landscape of EFX Allocations on Graphs: Goods, Chores and Mixed Manna (Under Review of Theoretical Computer Science)
 
-* ## Achieving Equitability with Subsidy
-
-  
-  Joint work with Yuanyuan Wang
-
-    [Arxiv](https://arxiv.org/pdf/2505.23251)
+  Join work with Bo Li, Minming Li, Zekai Wu, Yu Zhou
 
 * ## Worst-case Automated Mechanism Design
   Joint work with Chenran Yang, Hanrui Zhang
 
-  
-* ## Optimal Rationality-Robust Design: Censorship Persuasion and Tight Guarantee
+* ## Online Fair Allocation with Bi-valued Subadditive Valuations
 
-  Joint work with Yiding Feng, Wei Tang
+  Joint work with Yuanyuan Wang
 
 * ## Online Fair Allocation with Personalized Bi-valued Valuation Functions: Tightness and Improvement
 
@@ -32,6 +29,14 @@ author_profile: true
 * ## Fair Allocation using Comparison Oracle
 
   Joint work with Yixiong Gao
+
+* ## Achieving Equitability with Subsidy
+
+  Joint work with Yuanyuan Wang
+
+    [Arxiv](https://arxiv.org/pdf/2505.23251)
+
+
 
 
 
