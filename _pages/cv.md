@@ -33,7 +33,7 @@ redirect_from:
 
 ### Professional Services
 
-* Conference Reviewing: AAAI 2026, NeurIPS 2025
+* Conference Reviewing: AAAI (2026,2027), ICML (2026,2027), NeurIPS (2025,2026), WWW 2026
 * Journal Reviewing: Journal of Artificial Intelligence Research
 
 <!-- 
